@@ -60,21 +60,7 @@ print(f"Currently: {me.current_focus()['learning']}")
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Klein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KleinAbong&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KleinAbong&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KleinAbong&theme=radical&hide_border=true)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=KleinAbong&theme=radical&no-frame=true&row=2&column=4)
-
-</div>
-
----
 
 ## 🎯 Learning Roadmap
 
