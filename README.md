@@ -1,7 +1,7 @@
-https://github.com/LikeNmuFFHere's the complete README.md code ready to copy and paste to your GitHub profile repository:
+
 
 ```markdown
-# 💻 Klein Ric M. Abong
+# 💻 Klein Ric Abong (muffy)
 
 ```
 🎓 Computer Science Student | 🔐 CTF Enthusiast | 🕵️ Forensics Lover | 🐍 Python Learner | ❤️ Erica's Biggest Fan
@@ -69,7 +69,7 @@ print(f"Currently: {me.current_focus()['learning']}")
 
 Hack4Gov Trophy
 
-![H4G](H4G.jpg)
+![H4G](https://raw.githubusercontent.com/LikeNmuFF/muffy/main/H4G.jpg)
 
 </div>
 
@@ -277,8 +277,8 @@ Day 1: ✅ | Day 2: ✅ | Day 3: ✅ | Day 4: ✅ | Day 5: ⏳
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KleinAbong&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/KleinAbong?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=LikeNmuFF&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/LikeNmuFF?label=Follow&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red" alt="Made with love" />
   <img src="https://img.shields.io/badge/Updated-Daily-brightgreen" alt="Updated daily" />
 </p>
@@ -286,6 +286,12 @@ Day 1: ✅ | Day 2: ✅ | Day 3: ✅ | Day 4: ✅ | Day 5: ⏳
 <p align="center">
   <i>🌟 Star this repository if you like my profile! 🌟</i>
 </p>
+
+---
+
+<div align="center">
+
+![Muffy Logo](https://raw.githubusercontent.com/LikeNmuFF/muffy/main/muffy.png)
 
 </div>
 
