@@ -136,17 +136,6 @@ graph LR
 
 ---
 
-## 📂 Project Showcase
-
-### **🌐 Developer of muffeia.xo.je**
-<div align="center">
-  
-![Muffeia Logo](https://raw.githubusercontent.com/LikeNmuFF/muffeia.xo.je/main/logo/m-blues.png)
-
-A personal web project showcasing creativity and technical skills. Visit [muffeia.xo.je](https://muffeia.xo.je) to explore!
-
-</div>
-
 ### **🔧 Python Projects (Coming Soon)**
 ```markdown
 ├── 📁 CTF-Tools/
