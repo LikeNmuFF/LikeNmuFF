@@ -7,11 +7,10 @@
 🎓 Computer Science Student | 🔐 CTF Enthusiast | 🕵️ Forensics Lover | 🐍 Python Learner | ❤️ Erica's Biggest Fan
 ```
 
----
 
 ## 👨‍💻 About Me
 
-```python
+
 class AboutKlein:
     def __init__(self):
         self.name = "Klein Ric M. Abong"
